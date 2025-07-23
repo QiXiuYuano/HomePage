@@ -320,6 +320,17 @@ body::before {
     color: #212121;
 }
 
+.language-tag.c {
+    background: rgb(132 157 195 / 57%);
+    color: #212121;
+}
+
+.language-tag.mat {
+    background: rgb(132 157 195 / 57%);
+    color: #212121;
+}
+
+
 /* 站点和项目部分 */
 .sites-section, .projects-section, .skills-section {
     background: rgb(255 255 255 / 4%);
